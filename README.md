@@ -2,7 +2,7 @@
 # Hey, I'm Sheetal 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-@Sheetal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sheetal-bhardwaj-aa03631a6/)](https://www.linkedin.com/in/sheetal-bhardwaj-aa03631a6/)
-[![leetcode Badge](https://img.shields.io/badge/-@Sheetal-yellow?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/user3372wX/)](https://leetcode.com/user3372wX/)
+[![leetcode Badge](https://img.shields.io/badge/-@leetcode-yellow?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/user3372wX/)](https://leetcode.com/user3372wX/)
 
 ## I'm a  Full stack developer! <img align="right" src="https://i.giphy.com/media/LmNwrBhejkK9EFP504/200w.webp" alt="Programmation" width="200" />
 - 👨🏻‍💻 Developer 

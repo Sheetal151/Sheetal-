@@ -71,7 +71,7 @@ export const Signup = () => {
             </label>
             <input
               type="text"
-              placeholder="John Doe"
+              placeholder="fullname"
               className="w-full input input-bordered h-10"
               value={inputs.fullName}
               onChange={(e) =>
@@ -86,7 +86,7 @@ export const Signup = () => {
             </label>
             <input
               type="text"
-              placeholder="johndoe"
+              placeholder="username"
               className="w-full input input-bordered h-10"
               value={inputs.username}
               onChange={(e) =>
